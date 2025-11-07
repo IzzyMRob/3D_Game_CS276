@@ -2,7 +2,7 @@
 
 ## Play the Game
 **Unity Play Link**: (https://play.unity.com/en/games/a7af36f3-a6fb-4b64-85f8-081c2c48b511/creatively-named-fps)
-I dont think the game plays in unity, i literally have no idea why. It is uploaded the exact same way all the other game are, it works perfectly fine in the editor. Also, I am very sorry if this is not well-written, I am getting sick and do not feel well. Sorry, I liked this project.
+I dont think the game plays in unity, i literally have no idea why. It is uploaded the exact same way all the other game are, it works perfectly fine in the editor. Also, I am very sorry if this is not well-written, I am getting sick and do not feel well. Sorry, also I liked this project.
 
 ## Game Overview
 Explore your environment and fight multitudes of robot enemies.
