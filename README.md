@@ -46,8 +46,8 @@ Explore your environment and fight multitudes of robot enemies.
 **Technical Details**: The health pickips look likt the ammo ones, except they are a skinnier shape. I didn't want to change too much but it still looks distinct enough to be recognized from a distance. They will always give the player 5 health, I also didn't want to force a max health in this game because I think it is unlikley the player ever gets that much extra health, so a few bars doesn't make a negative impact.
 **Known Issues**: N/A
 
-### 4. Health Pickups
-**Implementation**: I gave each spawner a limit n how many enemies it could spawn.
+### 4. Enemy Spawning
+**Implementation**: I gave each spawner a limit of how many enemies it could spawn throughout the game.
 **Game Impact**: It feels more concrete and managable to win the game bacause enemies don't spawn infinitly.
 **Technical Details**: I added an if statement into the Spawn coroutine to check if the amount of enemies spawned by this spawner is equal to the max, and if so not spawn anymore.
 **Known Issues**: N/A
