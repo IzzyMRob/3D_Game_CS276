@@ -1,7 +1,7 @@
 # Creativly Named FPS
 
 ## Play the Game
-**Unity Play Link**: [Your Unity Play URL]
+**Unity Play Link**: (https://play.unity.com/en/games/a7af36f3-a6fb-4b64-85f8-081c2c48b511/creatively-named-fps)
 
 ## Game Overview
 Explore your environment and fight multitudes of robot enemies.
@@ -21,7 +21,7 @@ Explore your environment and fight multitudes of robot enemies.
 - [x] Game over state
 - [X] Pause Menu
 - [X] Dynamic Lighting for Enemies
-- [ ] Make Pickups more noticeable
+- [X] Health Pickups
 
 ### Known Bugs
 - N/A
@@ -31,7 +31,19 @@ Explore your environment and fight multitudes of robot enemies.
 
 ## Extensions Implemented
 
-### 1. [Extension Name] (X points)
+### 1. Pause Menu
+**Implementation**: [How you implemented it]
+**Game Impact**: [How it changes gameplay]
+**Technical Details**: [Key technical changes]
+**Known Issues**: [Any bugs specific to this extension]
+
+### 1. Dynamic Lighting
+**Implementation**: [How you implemented it]
+**Game Impact**: [How it changes gameplay]
+**Technical Details**: [Key technical changes]
+**Known Issues**: [Any bugs specific to this extension]
+
+### 1. Health Pickups
 **Implementation**: [How you implemented it]
 **Game Impact**: [How it changes gameplay]
 **Technical Details**: [Key technical changes]
