@@ -1,13 +1,15 @@
-# [Your Game Title]
+# Creativly Named FPS
 
 ## Play the Game
 **Unity Play Link**: [Your Unity Play URL]
 
 ## Game Overview
-[Brief description of your game and its objective]
+Explore your environment and fight multitudes of robot enemies.
 
 ### Controls
-- [List controls here]
+- Use WASD to move
+- Use Space to jump
+- Shoot with the left mouse, aim with the right
 
 ## Base Game Implementation
 
@@ -17,13 +19,15 @@
 - [x] Collision detection
 - [x] Score system
 - [x] Game over state
-- [ ] [Any incomplete features]
+- [X] Pause Menu
+- [X] Dynamic Lighting for Enemies
+- [ ] Make Pickups more noticeable
 
 ### Known Bugs
-- [List any bugs in base game]
+- N/A
 
 ### Limitations
-- [List any limitations]
+- N/A
 
 ## Extensions Implemented
 
@@ -33,17 +37,13 @@
 **Technical Details**: [Key technical changes]
 **Known Issues**: [Any bugs specific to this extension]
 
-### 2. [Extension Name] (X points)
-[Repeat format for each extension]
-
 ## Credits
-- [List any external assets used]
-- [Credit sources for sprites, sounds, etc.]
+- All visual assets from the base template repository.
 
 ## Reflection
 **Total Points Claimed**: [Base: 80% + Extensions: X% = Total%]
-**Challenges**: [What was difficult]
+**Challenges**: One of the most difficult parts was diving into the code someone else had written and understanding what every part of it meant. Whei I wanted to change something about the game I had to do wuite a lot of searching through files to find where specific things happened.
 **Learning Outcomes**: [What you learned]
 
 ## Development Notes
-[Any additional notes about your development process]
+I think I would much rather have created my own game from scratch, however given the time constraints of the assignment I know it wouldn't have been at this lavel had I done so.
